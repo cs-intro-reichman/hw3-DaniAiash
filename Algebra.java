@@ -114,4 +114,4 @@ public class Algebra {
         }
         return minus(result, 1);
     }
-}
+} 
